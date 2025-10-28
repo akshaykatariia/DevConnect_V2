@@ -13,18 +13,11 @@ The motivation behind **DevConnect** came from a common issue faced by developer
 Traditional networking platforms (like LinkedIn) are too formal, while social platforms lack skill-based filtering.  
 **DevConnect** bridges that gap by offering a **casual, swipe-based platform** to meet developers based on their **tech stack, goals, and interests** — just like Tinder, but for coding buddies.
 
-
-<p align="center">
-  <a href="https://github.com/akshaymarch7/devTinder"><img src="https://img.shields.io/github/stars/akshaymarch7/devTinder?color=yellow&style=for-the-badge"></a>
-  <a href="https://github.com/akshaymarch7/devTinder"><img src="https://img.shields.io/github/forks/akshaymarch7/devTinder?color=orange&style=for-the-badge"></a>
-  <a href="https://github.com/akshaymarch7/devTinder"><img src="https://img.shields.io/github/license/akshaymarch7/devTinder?color=blue&style=for-the-badge"></a>
-</p>
-
 ---
 
 ## 🌍 Overview
 
-**DevConnect** (inspired by *devTinder*) is a **full-stack developer matchmaking platform** that helps developers discover, swipe, and connect with other devs sharing similar skills and interests.  
+**DevConnect**  is a **full-stack developer matchmaking platform** that helps developers discover, swipe, and connect with other devs sharing similar skills and interests.  
 It’s a fun yet practical platform where collaboration begins through meaningful tech-driven connections.
 
 ---
