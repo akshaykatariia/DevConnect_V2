@@ -67,4 +67,20 @@ It’s a fun yet practical platform where collaboration begins through meaningfu
 ---
 
 ## ⚙️ Folder Structure
-
+DevConnect/
+│
+├── client/ # Frontend
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ └── App.js
+│ └── package.json
+│
+├── server/ # Backend
+│ ├── routes/
+│ ├── controllers/
+│ ├── models/
+│ ├── middleware/
+│ ├── config/
+│ └── app.js
