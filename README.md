@@ -65,22 +65,25 @@ It’s a fun yet practical platform where collaboration begins through meaningfu
 | **Optional Tools** | Postman, Render/Vercel, Socket.io |
 
 ---
-
 ## ⚙️ Folder Structure
+
+```bash
 DevConnect/
 │
-├── client/ # Frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ └── App.js
-│ └── package.json
+├── client/                     # Frontend
+│   ├── src/
+│   │   ├── components/         # Reusable UI components
+│   │   ├── pages/              # Route-specific pages
+│   │   ├── services/           # Axios calls & API integration
+│   │   └── App.js
+│   └── package.json
 │
-├── server/ # Backend
-│ ├── routes/
-│ ├── controllers/
-│ ├── models/
-│ ├── middleware/
-│ ├── config/
-│ └── app.js
+├── server/                     # Backend
+│   ├── routes/                 # Express route definitions
+│   ├── controllers/            # Request handling logic
+│   ├── models/                 # MongoDB data models
+│   ├── middleware/             # Authentication & validation
+│   ├── config/                 # Database connection & environment setup
+│   └── server.js               # Entry point for backend server
+│
+└── README.md
